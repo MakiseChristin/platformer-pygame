@@ -1,3 +1,5 @@
+WATCH THE VIDEO ("platformer current build.mp4") TO GET AN IDEA OF THE CURRENT ISSUES AND FEATURES OF THE GAME
+
 Objectives:-
 
 1. The task is to create a game similar to the chrome dino game that appears when someone is not connected to Internet.
